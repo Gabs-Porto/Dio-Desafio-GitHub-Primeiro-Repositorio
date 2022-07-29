@@ -1,0 +1,2 @@
+Lógica de Programação é o modo como se escrevem programas de computador através de uma sequência de passos para executar uma ou várias funções, esta sequência é o algoritmo.
+A lógica de programação em geral baseia-se em uma lógica computacional compartilhada por humanos e máquinas, que é o que exploramos a medida que continuamos a interagir com as novas tecnologias. Com isso em mente, é possível desenvolver definições mais específicas de uma lógica de programação, à base de um trecho de código.

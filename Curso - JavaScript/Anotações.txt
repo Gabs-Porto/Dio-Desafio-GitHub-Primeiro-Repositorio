@@ -1,0 +1,30 @@
+A linguagem de programação Javascript permite ao desenvolvedor implementar diversos itens de alto nível de complexidade em páginas web, como animações, mapas, gráficos ou informações que se atualizam em intervalos de tempo padrão, por exemplo.
+
+Javascript é a terceira camada do bolo de desenvolvimento web e front-end, junto com HTML, CSS e PHP.
+
+O que é HTML?  – É uma linguagem de marcação que serve para dar significado e estrutura ao conteúdo web, como, por exemplo, definir cabeçalhos, parágrafos, fazer referências ou inserir imagens e vídeos.
+
+O que é CSS? – É uma linguagem de folha de estilos, que tem o papel de tornar uma página apresentável na web, relacionada diretamente com o design e aparência.
+
+O que é PHP? – É uma linguagem de programação para páginas. Com ela, você desenvolver sites dinâmicos, extensões de aplicações e agilizar o processo de desenvolvimento de um sistema.
+
+O que é JavaScript? – É uma linguagem de programação de comportamento que permite a criação de conteúdos dinâmicos, controle de mídias e animações para deixar seu site mais interativo e interessante.
+
+Vantagens:
+
+1. Você não precisa de um compilador porque os navegadores de internet o interpretam com HTML;
+2. É mais fácil de aprender do que as outras linguagens de programação;
+3. Erros são bem mais fáceis de localizar e, por conta disso, de serem corrigidos;
+4. Ele pode ser designado a certos elementos de páginas de internet ou eventos específicos, como cliques e rolagens de mouse personalizados;
+5. É totalmente compatível com várias plataformas e navegadores;
+6. Você pode validar entradas e reduzir a necessidade de verificações manuais de dados;
+7. Ele faz com que os sites sejam bem mais interativos e segurem a atenção dos visitantes por mais tempo, característica que define a experiência do usuário (UX).
+8. Ele é mais rápido e mais leve que outras linguagens de programação.
+
+Desvantagens:
+
+1. Vulnerável a brechas de segurança;
+2. Pode ser usado para executar códigos maliciosos no computador do usuário;
+3. Nem sempre tem suporte a diferentes navegadores e dispositivos;
+4. Os trechos de código em JS costumam ser bem grandes;
+5. Pode ser renderizado diferentemente em vários dispositivos, o que pode ocasionar inconsistências.

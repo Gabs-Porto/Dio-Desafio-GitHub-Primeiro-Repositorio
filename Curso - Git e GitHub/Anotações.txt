@@ -1,0 +1,12 @@
+Download Git:
+https://git-scm.com/downloads
+
+O GIT é um sistema de controle de versão, também conhecido pela sigla VCS –  version control system.
+
+Os VCS são uma ótima forma de otimizar o trabalho ao analisar as alterações feitas em um código de projeto compartilhado, além de ser um componente fundamental do sistema de gerenciamento de configuração de software que cuida das mudanças que precisam ser feitas em um projeto.
+
+As alterações/revisões/ atualizações feitas são identificáveis ​​através de códigos de letra ou números. Informações como data e a identidade do autor da alteração também são mantidas.
+
+Cada repositório local consiste em três árvores: o diretório de trabalho que contém os arquivos reais; O índice que desempenha o papel de uma área de teste e o HEAD que é um ponteiro para o último commit feito pelo usuário.
+
+Então, é assim que o fluxo de trabalho pode ser explicado: o usuário adiciona um arquivo ou alterações do diretório de trabalho para o índice (a área de teste) e uma vez revistos, o arquivo ou as alterações são finalmente comprometidos com o HEAD.
